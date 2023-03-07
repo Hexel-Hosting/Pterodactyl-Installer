@@ -57,7 +57,7 @@ FQDN=""
 # Default MySQL credentials
 MYSQL_DB="pterodactyl"
 MYSQL_USER="pterodactyl"
-MYSQL_PASSWORD=""
+MYSQL_PASSWORD="pterodactyl"
 
 # Environment
 email=""
@@ -76,7 +76,7 @@ CONFIGURE_LETSENCRYPT=false
 
 # download URLs
 PANEL_DL_URL="https://github.com/pterodactyl/panel/releases/download/$PANEL_VERSION/panel.tar.gz"
-GITHUB_BASE_URL="https://raw.githubusercontent.com/fokusdotid/pterodactyl-installer/$GITHUB_SOURCE"
+GITHUB_BASE_URL="https://raw.githubusercontent.com/Hexel-Hosting/pterodactyl-installer/$GITHUB_SOURCE"
 
 # ufw firewall
 CONFIGURE_UFW=false
